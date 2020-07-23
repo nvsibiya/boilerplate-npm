@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Nomfundo Verah Sibiya",
+	"author": "nomfundo verah sibiya",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
